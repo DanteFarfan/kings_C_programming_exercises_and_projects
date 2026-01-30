@@ -1,4 +1,4 @@
-//Author: Dante Farfám
+//Author: Dante Farfán
 //Description: This creates a check like form using ascii characters, works for number from 3 to 22
 
 #include <stdio.h>
