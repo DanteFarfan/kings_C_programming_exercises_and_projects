@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 23)
 
 add_library(untitled STATIC library.c
         Exercises/exercise_3/exercise_3.c
-        "Projects/Project2/project2.c")
+        "Projects/Project2/project2.c"
+        Projects/Project4/project4.c)
