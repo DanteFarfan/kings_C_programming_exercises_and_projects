@@ -8,4 +8,5 @@ add_library(untitled STATIC library.c
         "Projects/Project2/project2.c"
         Projects/Project4/project4.c
         Projects/Project5/project5.c
-        Projects/Project6/project6.c)
+        Projects/Project6/project6.c
+        Projects/Project7/project7.c)
