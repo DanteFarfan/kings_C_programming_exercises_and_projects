@@ -7,4 +7,5 @@ add_library(untitled STATIC library.c
         Exercises/exercise_3/exercise_3.c
         "Projects/Project2/project2.c"
         Projects/Project4/project4.c
-        Projects/Project5/project5.c)
+        Projects/Project5/project5.c
+        Projects/Project6/project6.c)
