@@ -10,4 +10,5 @@ add_library(untitled STATIC library.c
         Projects/Chapter2/Project5/project5.c
         Projects/Chapter2/Project6/project6.c
         Projects/Chapter2/Project7/project7.c
-        Projects/Chapter2/Project8/project8.c)
+        Projects/Chapter2/Project8/project8.c
+        Exercises/Chapter3/Exercise2/exercise2.c)
