@@ -9,4 +9,5 @@ add_library(untitled STATIC library.c
         Projects/Project4/project4.c
         Projects/Project5/project5.c
         Projects/Project6/project6.c
-        Projects/Project7/project7.c)
+        Projects/Project7/project7.c
+        Projects/Project8/project8.c)
