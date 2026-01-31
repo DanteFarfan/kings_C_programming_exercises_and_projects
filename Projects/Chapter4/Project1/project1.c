@@ -10,5 +10,5 @@ int main(void)
     printf("Enter a two-digit numer: ");
     scanf("%d", &number);
 
-    printf("The digits are: %1d%1d\n", number % 10, number / 10);
+    printf("The reversal is: %1d%1d\n", number % 10, number / 10);
 }
